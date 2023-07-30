@@ -13,6 +13,6 @@
 - Grid e Flexbox
 - Inline-block
 - CSS interativo
-- Site responsivo
+- Media queries
 
 > Também disponível na plataforma [Vercel](https://alura-plus-gyselle-marques.vercel.app/).
