@@ -14,3 +14,5 @@
 - Inline-block
 - CSS interativo
 - Site responsivo
+
+> Também disponível na plataforma [Vercel](https://alura-plus-gyselle-marques.vercel.app/).
