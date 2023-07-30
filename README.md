@@ -13,4 +13,4 @@
 - Grid e Flexbox
 - Inline-block
 - CSS interativo
-- Criar um site responsivo
+- Site responsivo
